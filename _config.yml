@@ -74,8 +74,8 @@ ga_domain: 杨大仙.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/yangwww3370435491/-/blob/main/d386fecbcf105d457742fd1b74f81695.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Ydx"
+sidebar-avatar: http://m.qpic.cn/psc?/V500e65q2rgkCF2KcKHA0R23zw1HJImi/TmEUgtj9EK6.7V8ajmQrELEfJqbLGWLh4*EoLTpqNeeyUV.nPggVguFYmYw6INBtzwHWkK2o*nQhuZAFlLwYfzNSU2PkniHhoshOvAqNmKo!/b&bo=4gPhAwAAAAABByM!&rf=viewer_4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
