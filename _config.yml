@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 3370435491@qq.com
 description: "这里是 @杨大仙 的个人博客，与你一起发现有趣的世界"
 keyword: "杨大仙 666"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://geren.261020.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: 杨大仙.me
+ga_track_id: "" # Format: UA-xxxxxx-xx
+ga_domain: yangdaxian.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
