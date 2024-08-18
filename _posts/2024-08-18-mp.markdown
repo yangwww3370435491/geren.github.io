@@ -1,0 +1,21 @@
+---
+layout:        post
+title:         "论PTSD"
+author:       "杨大仙"
+header-style: text
+catalog:      true
+tags:
+    -web
+    -PTSD
+---
+
+>个资料来源于AI搜索,有任何问题及建议请联系我qq:33704.5491@qq.com
+
+建议使用 **Edge** 浏览器观看,效果更佳
+
+## PTSD是什么
+
+PTSD 一般指的是创伤后应激障碍.这是一种精神障碍,通常在个体目睹或经历了涉及他人或自身死亡,死亡威胁,受伤或身体完整性受到威胁的事件之后,延迟出现或持续出现
+
+
+
