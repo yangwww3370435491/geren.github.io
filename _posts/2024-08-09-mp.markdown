@@ -6,7 +6,7 @@ header-style: text
 catalog:      true
 tags:
     -web
-    -JavaScript
+    -Markdown
 ---
 
 >文章来源:https://markdown.com.cn/editor/,本文章有问题或建议,请联系我QQ:3370435491
