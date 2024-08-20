@@ -1,10 +1,10 @@
 # Site settings
-title: 杨大仙 Blog
-SEOTitle: 杨大仙的博客 | 杨大仙 Blog
+title: 羡鱼 Blog
+SEOTitle: 羡鱼的博客 | 羡鱼 Blog
 header-img: img/home-bg.jpg
 email: 3370435491@qq.com
-description: "这里是 @杨大仙 的个人博客，与你一起发现有趣的世界"
-keyword: "杨大仙 666"
+description: "这里是 @羡鱼 的个人博客，与你一起发现有趣的世界"
+keyword: "羡鱼 666"
 url: "https://geren.261020.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,8 +16,8 @@ RSS: false
 weibo_username: YhL061020
 zhihu_username: 杨大仙
 github_username: yangwww3370435491
-twitter_username: 杨大仙
-#facebook_username:  杨大仙
+twitter_username: 羡鱼
+#facebook_username:  羡鱼
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: 杨大仙
+disqus_username: 羡鱼
 
 # Netease settings
 netease_comment: false
@@ -74,7 +74,7 @@ ga_domain: yangdaxian.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Ydx"
+sidebar-about-description: "吹嘘自己有知识的人,等于在宣扬自己的无知. <br> React Team @ 羡鱼"
 sidebar-avatar: https://picture.gptkong.com/20240809/1206479a484a03481ba5aa2b09b048cc1f.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
